@@ -194,7 +194,7 @@
 "sites": "Sites",
 "siteurl": "Site URL",
 "siteurllabel": "Site URL",
-"siteurlrequired": "Site URL required, i.e <i>http://www.yourmoodlesite.abc or https://www.yourmoodlesite.efg</i>",
+"siteurlrequired": "Site URL required, i.e <i>http://itismystyle.com/iedu-portal/ or http://itismystyle.com/iedu-portal/</i>",
 "spaceusage": "Space usage",
 "stop": "Stop",
 "strings": "Strings",
@@ -241,6 +241,6 @@
 "yes": "Yes",
 "youarein": "You are in:",
 "yourpassword": "password",
-"yoursiteurl": "https://yourmoodle.com",
+"yoursiteurl": "http://itismystyle.com/iedu-portal/",
 "yourusername": "username",
 "docsurl" : "http://docs.moodle.org/en/Mobile_app"}
