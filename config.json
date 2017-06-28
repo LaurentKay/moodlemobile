@@ -8,7 +8,7 @@
 "plugins" : ["notifications", "messages", "upload", "events", "myfiles", "contents", "participants", "grades","addcontact", "addnote", "sendmessage", "forum", "label", "url", "page", "resource"],
 "wsservice" : "moodle_mobile_app",
 "wsextservice" : "local_mobile",
-"presets" : {"url": "http://itismystyle.com/iedu-portal/", "username": ""},
+"presets" : {"url": "http://itismystyle.com/iedu-portal/login/", "username": ""},
 "sync_ws_on" : true,
 "sync_css_on" : true,
 "sync_cron": 300000,
