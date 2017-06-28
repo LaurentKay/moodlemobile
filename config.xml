@@ -19,8 +19,8 @@
         <string>1.0</string>
     </gap:config-file>
 
-    <feature name="http://api.phonegap.com/1.0/device" />
-    <feature name="http://api.phonegap.com/1.0/network"/>
+    <!--feature name="http://api.phonegap.com/1.0/device" -->
+    <!--feature name="http://api.phonegap.com/1.0/network"-->
     <!-- The following phonegap camera feature block Google Play to install the app on Nexus 7.
          Nothing is broken without it, so we disable it.
          Note that at the current moment we don't use phonegap video capture plugin - MOBILE-296.
