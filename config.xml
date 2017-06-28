@@ -89,7 +89,7 @@
     <!--gap:plugin name="net.tunts.webintent" /-->
     <gap:plugin name="nl.x-services.plugins.launchmyapp">
         <param name="URL_SCHEME" value="mootes14" />
-    </gap:plugin-->
+    </gap:plugin>
     <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
 
     <access origin="*" />
